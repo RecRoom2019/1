@@ -8,9 +8,9 @@
     "Name": "November Highlights",
     "FeaturedRooms": [
       {
-        "RoomName": "Crescendo",
+        "RoomName": "Test",
         "RoomId": 10,
-        "ImageName": "Crescendo.png"
+        "ImageName": "Profile.png"
       },
       {
         "RoomName": "Bowling",
