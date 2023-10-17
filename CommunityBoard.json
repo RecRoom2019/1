@@ -8,92 +8,87 @@
     "Name": "November Highlights",
     "FeaturedRooms": [
       {
-        "RoomName": "Test",
+        "RoomName": "",
         "RoomId": 10,
-        "ImageName": "Profile.png"
-      },
-      {
-        "RoomName": "Bowling",
-        "RoomId": 19,
-        "ImageName": "bowling.png"
+        "ImageName": ""
       }
     ]
   },
   "CurrentAnnouncement": {
-    "Message": "i havent updated this in a while lol, click on the button for idk a cookie -->",
-    "MoreInfoUrl": "https://www.youtube.com/watch?v=UdwPh7qdwhM"
+    "Message": "",
+    "MoreInfoUrl": ""
   },
   "InstagramImages": [
     {
-      "ImageName": "Community/Instagram/Welcome.png",
+      "ImageName": "8xz2n951onuk43n8c54b38j42.jpg?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/coachgun.png",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/beer.png",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/buy now.png",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/game.png",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/our.png",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/villagersex.png",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/what it cost.png",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/PVP.png",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/witch bitch.jpg",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/Fuck you 2022.png",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/SquadWard.jpg",
+      "ImageName": "DefaultProfileImage?cropSquare=true",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     }
     
   ],
   "Videos": [
     {
-      "BlobName": "real.mp4",
-      "Title": "CoffeeVault for 2022???",
+      "BlobName": "086edfb907d846bbb2edbacaa52d1612",
+      "Title": "MITM Trailer",
       "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "IDK.png",
+      "ThumbnailBlobName": "DefaultProfileImage",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "u.webm",
-      "Title": "November 15th",
+      "BlobName": "8419c5b9e76e460089bbeec31aac3933",
+      "Title": "Tokyo Machine Intweview",
       "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "IDK.png",
+      "ThumbnailBlobName": "20fr80a2twq8uinpqgsphf0s8.jpg",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "1.mp4",
-      "Title": "When the imposter is sus",
+      "BlobName": "3df61ec3bd7e4c7c8782c33669c2c4b8",
+      "Title": "Test",
       "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "Community/Videos/IMG_2322.png",
+      "ThumbnailBlobName": "98h9shzuqs92mkrg47zgkfwi7.jpg",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ]
