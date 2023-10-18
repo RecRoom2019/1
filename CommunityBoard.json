@@ -1,7 +1,7 @@
 {
   "FeaturedPlayer": {
-    "Id": 69,
-    "TitleOverride": "Featured Lack of Player",
+    "Id": 765288216,
+    "TitleOverride": "Featured Player",
     "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   "FeaturedRoomGroup": {
@@ -28,7 +28,7 @@
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "DefaultProfileImage",
+      "ImageName": "",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
