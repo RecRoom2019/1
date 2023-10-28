@@ -1,0 +1,104 @@
+[
+    {
+        "Key": "Gift.MaxDaily",
+        "Value": "100",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Gift.Falloff",
+        "Value": "1",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Gift.DropChance",
+        "Value": "100",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "UseHeartbeatWebSocket",
+        "Value": "0",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Screens.ForceVerification",
+        "Value": "1",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Screens.ForceVerification",
+        "Value": "1",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "forceRegistration",
+        "Value": "0",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Door.Creative.Query",
+        "Value": "#puzzle",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Door.Creative.Title",
+        "Value": "E",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Door.Featured.Query",
+        "Value": "#featured",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Door.Featured.Title",
+        "Value": "Featured Porn",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Door.Quests.Query",
+        "Value": "#quest",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Door.Quests.Title",
+        "Value": "GAY PORN",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Door.Shooters.Query",
+        "Value": "#pvp #rro",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Door.Shooters.Title",
+        "Value": "FURRY PORN",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Door.Sports.Query",
+        "Value": "#sport",
+        "StartTime": null,
+        "EndTime": null
+    },
+    {
+        "Key": "Door.Sports.Title",
+        "Value": "FemBoy Porn",
+        "StartTime": null,
+        "EndTime": null
+    }
+]
