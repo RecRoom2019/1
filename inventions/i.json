@@ -1,13 +1,13 @@
 [
     {
-        "InventionId":3386303,
+        "InventionId":1,
         "ReplicationId":"",
         "CreatorPlayerId":1,
         "Name":"Test","Description":":3",
-        "ImageName":"b2b517e43820425bad7e29065535906a.jpg",
+        "ImageName":"98h9shzuqs92mkrg47zgkfwi7.jpg",
         "UgcVersion":1,
         "CurrentVersionNumber":1,
-        "CurrentVersion":{"BlobName":"37113e8ceb6e4f94998235856001e597.inv","InventionId":3386303,"ReplicationId":"3a328380-a119-4531-826b-c56ed6800e04","VersionNumber":1,"BlobHash":null,"InstantiationCost":204,"LightsCost":0,"ChipsCost":0,"CloudVariablesCost":0},
+        "CurrentVersion":{"BlobName":null,"InventionId":3386303,"ReplicationId":"3a328380-a119-4531-826b-c56ed6800e04","VersionNumber":1,"BlobHash":null,"InstantiationCost":204,"LightsCost":0,"ChipsCost":0,"CloudVariablesCost":0},
         "Accessibility":1,
         "IsPublished":true,
         "IsFeatured":false,
@@ -17,12 +17,12 @@
         "CreationRoomId":1,
         "NumPlayersHaveUsedInRoom":0,
         "NumDownloads":0,
-        "CheerCount":192,
+        "CheerCount":0,
         "CreatorPermission":100,
         "GeneralPermission":40,
         "IsAGInvention":false,
         "IsCertifiedInvention":false,
-        "Price":null,
+        "Price":99999999,
         "AllowTrial":true,
         "HideFromPlayer":false
     }

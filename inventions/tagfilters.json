@@ -1,10 +1,9 @@
 {
     "PinnedFilters":[
         "art",
-        "character",
         "costume",
         "decor",
-        "dormskin",
+        "test",
         "dormanchor",
         "gadget",
         "environment",
@@ -20,12 +19,6 @@
         "paid",
         "certified"
     ],
-    "PopularFilters":[
-        "art",
-        "character",
-        "decor",
-        "environment",
-        "weapon"
-    ],
+    "PopularFilters":null,
     "TrendingFilters":null
 }
