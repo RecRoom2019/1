@@ -19,6 +19,12 @@
         "paid",
         "certified"
     ],
-    "PopularFilters":null,
+    "PopularFilters":[
+        "art",
+        "character",
+        "decor",
+        "environment",
+        "weapon"
+    ],
     "TrendingFilters":null
 }
