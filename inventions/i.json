@@ -1,0 +1,29 @@
+[
+    {
+        "InventionId":3386303,
+        "ReplicationId":"",
+        "CreatorPlayerId":1,
+        "Name":"Test","Description":":3",
+        "ImageName":"b2b517e43820425bad7e29065535906a.jpg",
+        "UgcVersion":1,
+        "CurrentVersionNumber":1,
+        "CurrentVersion":{"BlobName":"37113e8ceb6e4f94998235856001e597.inv","InventionId":3386303,"ReplicationId":"3a328380-a119-4531-826b-c56ed6800e04","VersionNumber":1,"BlobHash":null,"InstantiationCost":204,"LightsCost":0,"ChipsCost":0,"CloudVariablesCost":0},
+        "Accessibility":1,
+        "IsPublished":true,
+        "IsFeatured":false,
+        "ModifiedAt":"2023-10-30T16:22:33.6442619Z",
+        "CreatedAt":"2021-02-17T13:35:13.9328828Z",
+        "FirstPublishedAt":"2021-02-17T13:36:03.435109Z",
+        "CreationRoomId":1,
+        "NumPlayersHaveUsedInRoom":0,
+        "NumDownloads":0,
+        "CheerCount":192,
+        "CreatorPermission":100,
+        "GeneralPermission":40,
+        "IsAGInvention":false,
+        "IsCertifiedInvention":false,
+        "Price":null,
+        "AllowTrial":true,
+        "HideFromPlayer":false
+    }
+]
