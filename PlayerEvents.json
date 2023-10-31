@@ -1,0 +1,14 @@
+[
+    {
+        "PlayerEventId": 1,
+        "CreatorPlayerId": 1,
+        "ImageName": "RecCenter.png",
+        "RoomId": 1,
+        "ClubId": null,
+        "Name": "test",
+        "Description": "test",
+        "StartTime": null,
+        "EndTime": null,
+        "AttendeeCount": 0
+     }
+]
