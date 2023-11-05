@@ -1,0 +1,10 @@
+[
+    {
+        "Id": 1,
+        "PlayerID": 1,
+        "RelationshipType": 3,
+        "Favorited": 1,
+        "Muted": 0,
+        "Ignored": 0
+    }
+]
