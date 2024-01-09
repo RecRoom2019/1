@@ -1,6 +1,6 @@
 {
   "FeaturedPlayer": {
-    "Id": 350848650,
+    "Id": 1,
     "TitleOverride": "Featured Player",
     "UrlOverride": "https://recroom2019.github.io/1/video/pope_francis.mp4"
   },
@@ -78,10 +78,10 @@
       "SourceUrl": "https://cdn.rec.net/video/086edfb907d846bbb2edbacaa52d1612"
     },
     {
-      "BlobName": "c418.mp4",
+      "BlobName": "",
       "Title": "",
       "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "badbf41451c041fe90aa6525d440dda5.png",
+      "ThumbnailBlobName": "",
       "SourceUrl": "https://cdn.rec.net/video/086edfb907d846bbb2edbacaa52d1612"
     },
     {
